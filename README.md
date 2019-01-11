@@ -1,4 +1,4 @@
-![compatible](https://img.shields.io/badge/PHP%207-Compatible-brightgreen.svg)![License](https://poser.pugx.org/juanmicl/gmaps-facade/license)
+![compatible](https://img.shields.io/badge/PHP%207-Compatible-brightgreen.svg) ![License](https://poser.pugx.org/juanmicl/gmaps-facade/license)
 # GMaps Facade
 This is Google Maps private API. I'm trying to get all the features of google maps for devs.
 ## Installation
