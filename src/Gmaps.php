@@ -40,7 +40,7 @@ class Gmaps
       $array['successful'] = false;
     }
 
-    return json_encode($array, JSON_UNESCAPED_UNICODE);
+    return $array;
   }
 
   public function getPlace($xCord, $yCord)
@@ -79,18 +79,18 @@ class Gmaps
 
     $array = [
       [
-        'zona' => $lugar,
-        'cp' => $cp,
-        'localidad' => $localidad,
+        'place' => $lugar,
+        'pc' => $cp,
+        'location' => $localidad,
       ],
-      'encontrado' => true,
+      'found' => true,
     ];
 
     if(empty($place)){
-      $array['encontrado'] = false;
+      $array['found'] = false;
     }
 
-    return json_encode($array, JSON_UNESCAPED_UNICODE);
+    return $array;
   }
 }
 
