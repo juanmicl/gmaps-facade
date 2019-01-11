@@ -1,0 +1,17 @@
+{
+    "name": "juanmicl/gmaps-facade",
+    "description": "Google Maps private API",
+    "license": "RPL-1.5",
+    "authors": [
+        {
+            "name": "Juan Miguel",
+            "email": "contacto@juanmi.pw"
+        }
+    ],
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "GmapsFacade\\": "src/"
+      }
+    }
+}
