@@ -8,7 +8,7 @@ use GuzzleHttp\Client;
  */
 class Gmaps
 {
-  const BASE_URI = 'https://www.google.es';
+  const BASE_URI = 'https://www.google.com';
   const TIMEOUT = 3.0;
 
   public function getCords($place)
