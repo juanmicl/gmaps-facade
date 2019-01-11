@@ -1,5 +1,11 @@
 # ![Logo](https://i.imgur.com/ZhpGXZK.png) GMaps Facade ![compatible](https://img.shields.io/badge/PHP%207-Compatible-brightgreen.svg) ![License](https://poser.pugx.org/juanmicl/gmaps-facade/license)
 This is Google Maps private API. I'm trying to get all the features of google maps for devs.
+## What does gmaps-facade do?
+Main features:
+- Get Location name by geocoords.
+- Get geocoords by name location.
+- Get satellite image by coords (in progress).
+And much more to develop...
 ## Installation
 ### Using Composer
 ```sh
