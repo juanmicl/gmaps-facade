@@ -1,5 +1,7 @@
 <?php
 include __DIR__ . "/../vendor/autoload.php";
 
-$gmaps = new \juanmicl\GmapsFacade\Gmaps();
+$gmaps = new \GmapsFacade\Gmaps();
+
+echo $gmaps->getCords('Madrid');
 ?>
