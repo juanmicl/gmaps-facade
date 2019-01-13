@@ -1,4 +1,4 @@
-# ![Logo](https://i.imgur.com/ZhpGXZK.png) GMaps Facade ![compatible](https://img.shields.io/badge/PHP%207-Compatible-brightgreen.svg) ![License](https://poser.pugx.org/juanmicl/gmaps-facade/license)
+# ![Logo](https://i.imgur.com/ZhpGXZK.png) GMaps Facade ![compatible](https://img.shields.io/badge/PHP%207-Compatible-brightgreen.svg) [![Latest Stable Version](https://poser.pugx.org/juanmicl/gmaps-facade/version)](https://packagist.org/packages/juanmicl/gmaps-facade) [![Total Downloads](https://poser.pugx.org/juanmicl/gmaps-facade/downloads)](https://packagist.org/packages/juanmicl/gmaps-facade) [![Latest Unstable Version](https://poser.pugx.org/juanmicl/gmaps-facade/v/unstable)](//packagist.org/packages/juanmicl/gmaps-facade) [![License](https://poser.pugx.org/juanmicl/gmaps-facade/license)](https://packagist.org/packages/juanmicl/gmaps-facade)
 This is Google Maps private API. I'm trying to get all the features of google maps for devs.
 ## What does gmaps-facade do?
 Main features:
